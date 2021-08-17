@@ -9,7 +9,7 @@ body {
   padding: 15px;
   margin: 100px auto;
   max-width: 80%;
-  background-image: url(weatherApp/img/sky.jpg);
+  background-image: url(img/sky.jpg);
 }
 
 .heading {
